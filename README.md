@@ -14,4 +14,7 @@ https://gitter.im/research_trainers_oz/Lobby
 
 We may turn on the Wiki later on.
 
-We won't need to add anything on this githun, we are only using the issues now. If you want an introduction tutorial, please see this link: https://guides.github.com/activities/hello-world/
+We won't need to add anything on this github, we are only using the issues now. If you want an introduction tutorial, please see this link: https://guides.github.com/activities/hello-world/
+
+If you want to subscribe to all updates read here to work out how to watch this repository:
+https://help.github.com/articles/watching-and-unwatching-repositories/#watching-a-single-repository
